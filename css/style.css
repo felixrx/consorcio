@@ -1,0 +1,161 @@
+
+
+
+.navigation{
+   
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+}
+.navigation .item{
+    position:absolute;
+}
+.user{
+    top:25px;
+    left:200px;
+}
+.camera{
+   top:25px;
+   left:370px;
+}
+
+
+.shop{
+   top:25px;
+   left:550px;
+}
+
+
+.fav2{
+   top:25px;
+   left:730px;
+}
+a.icon{
+    width:52px;
+    height:52px;
+    position:absolute;
+    top:0px;
+    left:0px;
+    cursor:pointer;
+}
+.user a.icon{
+    background:transparent url(../images/home.png) no-repeat 0px 0px;
+
+    border-radius: 50px;
+    box-shadow: 0 0 20px #4f9;
+}
+.home a.icon{
+    background:transparent url(../images/home.png) no-repeat 0px 0px;
+     border-radius: 50px;
+    box-shadow: 0 0 20px #4f9;
+}
+.shop a.icon{
+    background:transparent url(../images/home.png) no-repeat 0px 0px;
+     border-radius: 50px;
+    box-shadow: 0 0 20px #4f9;
+}
+.camera a.icon{
+    background:transparent url(../images/home.png) no-repeat 0px 0px;
+     border-radius: 50px;
+    box-shadow: 0 0 20px #4f9;
+}
+.fav a.icon{
+    background:transparent url(../images/home.png) no-repeat 0px 0px;
+     border-radius: 50px;
+    box-shadow: 0 0 20px #4f9;
+}
+.fav2 a.icon{
+    background:transparent url(../images/home.png) no-repeat 0px 0px;
+     border-radius: 50px;
+    box-shadow: 0 0 20px #4f9;
+}
+.navigation .item a.active{
+    background-position:0px -52px;
+}
+.item img.circle{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:52px;
+    height:52px;
+    opacity:0.1;
+     border-radius: 100px;
+    box-shadow: 0 0 20px #4f9;
+
+}
+.item h2{
+    position:absolute;
+    width:157px;
+    height:22px;
+    color:#222;
+    font-size:12px;
+    top:18px;
+    left:52px;
+    padding-bottom:  0px;
+    
+    
+   
+    text-shadow:1px 1px 1px #fff;
+    
+}
+
+
+.item h2{
+    position:absolute;
+    width:157px;
+    height:22px;
+    color:#222;
+    font-size:12px;
+    top:18px;
+    left:52px;
+   
+    
+   
+    text-shadow:1px 1px 1px #fff;
+    
+}
+
+
+.enlace{
+
+
+ position:absolute;
+    width:157px;
+    height:22px;
+    color:#222;
+    font-size:12px;
+    top:30px;
+    left:26px;
+    padding-left: 20px;
+    
+    
+   
+    text-shadow:1px 1px 1px #fff;
+
+}
+
+.item h2.active{
+    
+    text-shadow:1px 0px 1px #555;
+}
+.item ul{
+   
+    position:absolute;
+    top:42px;
+    left:28px;
+  display: none;
+   
+}
+.item {
+    
+    
+   
+}
+.item ul :hover{
+   
+  
+}
+
+
